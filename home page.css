@@ -1,0 +1,154 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital@1&display=swap');
+
+.navbar {
+    position: absolute;
+    width: 1177px;
+    height: 40px;
+    left: 371px;
+    top: 63px;
+    font-size: 25px;
+    color: #0f141e;
+    border: 1px solid #000000;
+    box-sizing: border-box;
+    margin-right: 20px;
+}
+
+.navbar a {
+    text-decoration: none;
+    display:inline-block;
+    padding:10px;
+}
+
+.navbar input {
+    position: absolute;
+    left: 78%;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    width: 250px;
+}
+.navbar abbr {
+    margin-right: 30px;
+    text-decoration-color: #0D0E43;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size: 34px;
+    margin-left: 30px;
+    color: #0D0E43;
+    font-weight: bold;
+}
+.promotional {
+    position: absolute;
+    width: 1920px;
+    height: 764px;
+    left: 0px;
+    top: 122px;
+    background-color: #F2F0FF ;
+}
+
+#image32 {
+    position: absolute;
+    width: 387px;
+    height: 387px;
+    left: 70px;
+}
+
+#Sofa {
+    position: absolute;
+    width: 629px;
+    height: 629px;
+    left: 1051px;
+    top: 121px;
+}
+.header {
+    position: absolute;
+    width: 644px;
+    height: 248px;
+    left: 375px;
+    top: 325px;
+}
+.best {
+    color:#FB2E86;
+    text-shadow: 1px 0 0 #000;
+}
+.New {
+    font-family: 'Roboto', sans-serif;
+    font-size: 53px;
+    font-weight: bold;
+}
+.Lorem {
+    position: absolute;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 28px;
+    color: #8A8FB9;
+
+}
+.ShopNow {
+    position: absolute;
+    width: 163px;
+    height: 50px;
+    top: 270px;
+    background-color:#FB2E86 ;
+}
+.Featured {
+    position: absolute;
+    width: 367px;
+    height: 42px;
+    left: 777px;
+    top: 1015px;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size: 42px;
+    line-height: 49px;
+    color: #1A0B5B;
+    font-weight: bold;
+}
+
+
+.Featured\%20product {
+    position: absolute;
+    width: 270px;
+    height: 361px;
+    left: 376px;
+    top: 1105px;
+}
+.Featured\%20product2 {
+    position: absolute;
+    width: 270px;
+    height: 361px;
+    left: 675px;
+    top: 1105px;
+}
+.Component\%203 {
+    position: absolute;
+    width: 270px;
+    height: 361px;
+    left: 975px;
+    top: 1105px;
+}
+.Component\%204 {
+    position: absolute;
+    width: 270px;
+    height: 361px;
+    left: 1274px;
+    top: 1105px;
+}
+.LeatestProducts {
+    position: absolute;
+    width: 338px;
+    height: 42px;
+    left: 791px;
+    top: 1594px;
+    font-size: 42px;
+    line-height: 49px;
+    color:#151875;
+    font-weight: bold;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+.Component\%209 {
+    position: absolute;
+    width: 360px;
+    height: 306px;
+    left: 378px;
+    top: 1739px;
+}
